@@ -1,9 +1,9 @@
 # Hello! I'm Lucas Augusto
 
 <div>
-  <a href="https://github.com/laugustofrontend">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laugustofrontend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laugustofrontend&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/lucasaugustodeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasaugustodeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaugustodeveloper&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,24 +23,24 @@
   ##
   
 <div>
-  <a href="https://t.me/LAUGUSTOFRONTEND" target="_blank">
+  <a href="https://t.me/lucasaugustodeveloper" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/laugustofront" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/laugustofrontend" target="_blank">
+  <a href="https://instagram.com/lucasaugustodeveloper" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:laugustofrontend@gmail.com">
+  <a href = "mailto:lucasaugustodeveloper@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/laugustofrontend" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasaugustodeveloper" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://www.crunchyroll.com/user/laugustosilva" target="_blank">
     <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" target="_blank">
   </a>
  
-  ![Snake animation](https://github.com/laugustofrontend/laugustofrontend/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucasaugustodeveloper/lucasaugustodeveloper/blob/output/github-contribution-grid-snake.svg)
 </div>
